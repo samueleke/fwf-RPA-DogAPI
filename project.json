@@ -1,9 +1,10 @@
 {
-  "name": "fwf-Dog-API-PDD",
+  "name": "fwf-Dispatcher-Dog-API",
   "description": "Robotic Enterprise Framework",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.12.3]",
+    "UiPath.Mail.Activities": "[1.15.2]",
     "UiPath.System.Activities": "[22.4.1]",
     "UiPath.Testing.Activities": "[22.4.3]",
     "UiPath.UIAutomation.Activities": "[22.4.5]"
